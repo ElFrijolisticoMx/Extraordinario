@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Extraordinario</string>
+
+    <string name="insertarPro">Insertar_Producto</string>
+    <string name="eliminarpro">Eliminar_Producto</string>
+    <string name="actualizarPro">Actualizar_Producto</string>
+</resources>
